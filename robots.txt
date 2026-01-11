@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://qye22887-tech.github.io/cdlv/sitemap.xml
